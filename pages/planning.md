@@ -1,0 +1,18 @@
+- Your primary goal as club leadership is to provide content for your members
+- You should analyze the [Academic Calendar](https://www.pennwest.edu/academics/academic-calendar) to determine which days the club will be meeting. (Some meetings will be missed due to breaks)
+- Looking at that calendar, you can see how many days of content you need to fill.
+- ## Speakers
+- Speakers are a great way to fill a day with high-quality content.
+- You can leverage speaking events to grow the club by asking faculty to promote the event.
+- See the [speakers](speakers) page for more thoughts.
+- ## Presentations by members
+- These are presentations given by members, usually board members, or members more committed to the club.
+- As much as possible, try to make these funny and engaging
+- If you can branch into some other internet-browsing topic from the presentation, that can create fun content for the rest of the time
+- For example, Paul Shriner gave a fun presentation on the demo scene and, afterwards, we checked out some youtube videos of different demos, then wound up on Shadertoy playing with "modern day demos"
+- ## Workshops
+-
+-
+- ## Events
+-
+-
